@@ -1,0 +1,4 @@
+baseURL = "https://walldecor-quui.vercel.app"
+languageCode = "en-us"
+title = "Wall Décor Products"
+theme = "hugo-theme-minos"
